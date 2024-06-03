@@ -20,5 +20,5 @@ This repository contains a bash script for performing various video editing task
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/osint-video-editing.git
+   git clone https://github.com/Ahnafshariar/osint-video-editing.git
    cd osint-video-editing
